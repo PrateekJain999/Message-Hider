@@ -1,0 +1,10 @@
+1. Run secret login page.
+2. on that gui you see many buttons but non of them is working their is a secret button which is not
+visible to you : check (Login Example) image to check the location of that button.
+3. Press that button then enter login details ( username: 1234 , Password: 1234)
+4. Select whether you want to Encrypt the msg or decrypt the message.
+
+
+Note: The Algo used in this project is LSB algo for more details check :
+ => http://www.ijstr.org/final-print/dec2019/-Image-Steganography-Using-Lsb.pdf
+ => https://towardsdatascience.com/hiding-data-in-an-image-image-steganography-using-python-e491b68b1372
